@@ -10,8 +10,6 @@ July 26 2021
 # Privacy Policy & Terms
 I take your privacy very seriously. I neither want nor need to know anything about your personal data. To that end I’ve designed the app from the ground up to ensure that your data stays completely private.
 
-The app can optionally access some of your personal data for display within the app. This includes your photos. All of this access is handled using the standard iOS privacy prompts. If you give the app access to this data it will be read and displayed only within the app.
-
 I don’t want the responsibility of managing your data correctly, so I don’t collect it, which I think is better for both of us.
 
 *Now for the legal boilerplate part of the Privacy Policy.*
